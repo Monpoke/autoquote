@@ -1,0 +1,8 @@
+{
+  "name": "autoquote",
+  "version": "1.0.0",
+  "description": "Website for autoposting to Twitter and Facebook",
+  "main": "index.js",
+  "author": "Pierre BOURGEOIS <contact@pierrebourgeois.fr>",
+  "license": "MIT"
+}
